@@ -1,0 +1,63 @@
+Order_ID,Order_Date,Customer,Region,Category,Product,Quantity,Unit_Price
+ORD008,2026-12-01,,South,Office,Pen,4.0,20.0
+ORD009,,Sneha,North,Electronics,Keyboard,2.0,1200.0
+ORD010,,Kiran,West,Office,Notebook,8.0,50.0
+ORD011,,Ravi,East,Electronics,Monitor,1.0,8000.0
+ORD012,,Ananya,South,Office,Pen,6.0,20.0
+ORD014,,Vikram,East,Electronics,Monitor,10.0,8000.0
+ORD015,2026-05-01,,East,Furniture,Chair,4.0,3500.0
+ORD017,,Vikram,South,Office,Notebook,4.0,50.0
+ORD018,,Kiran,East,Furniture,Desk,3.0,6500.0
+ORD019,,Kiran,West,Furniture,Chair,4.0,3500.0
+ORD020,,Meera,South,Office,Desk Lamp,2.0,750.0
+ORD021,,Ishita,East,Office,Desk Lamp,1.0,750.0
+ORD023,,Ishita,North,Office,Pen,10.0,20.0
+ORD025,,Meera,South,Electronics,Keyboard,5.0,1200.0
+ORD026,,Arjun,West,Electronics,Desk,6.0,6500.0
+ORD027,,Kiran,East,Office,Desk Lamp,10.0,750.0
+ORD030,,Aarav,North,Electronics,Mouse,7.0,500.0
+ORD031,,Ananya,North,Office,Pen,4.0,20.0
+ORD032,,Diya,West,Furniture,Desk,5.0,6500.0
+ORD034,,Sneha,North,Furniture,Chair,4.0,3500.0
+ORD036,,Ravi,South,Electronics,Keyboard,-2.0,1200.0
+ORD037,,Sneha,South,Electronics,Keyboard,9.0,1200.0
+ORD039,,Arjun,East,Office,Pen,5.0,20.0
+ORD040,,Diya,East,Furniture,Chair,5.0,3500.0
+ORD041,2026-06-03,Meera,North,Electronics,Monitor,9.0,
+ORD042,,Arjun,West,Office,Notebook,9.0,50.0
+ORD043,,Arjun,South,Electronics,Mouse,1.0,500.0
+ORD044,,Kiran,West,Electronics,Keyboard,1.0,1200.0
+ORD045,,Meera,East,Office,Notebook,8.0,50.0
+ORD049,,Ananya,West,Furniture,Desk,2.0,6500.0
+,2026-01-01,Meera,East,Office,Notebook,4.0,50.0
+ORD054,,Ishita,South,Electronics,Monitor,4.0,8000.0
+ORD055,,Ananya,East,Furniture,Desk,2.0,6500.0
+ORD056,,Sneha,North,Furniture,Chair,8.0,3500.0
+ORD057,,Meera,East,Electronics,Mouse,7.0,500.0
+ORD058,,Ananya,West,Office,Desk Lamp,4.0,750.0
+ORD059,,Sneha,West,Furniture,Desk,5.0,6500.0
+ORD061,2026-07-01,Vikram,East,Electronics,Keyboard,,1200.0
+ORD062,,Sneha,South,Office,Notebook,8.0,50.0
+ORD063,,Aarav,West,Office,Notebook,7.0,50.0
+ORD064,,Kiran,South,Electronics,Mouse,5.0,500.0
+ORD065,,Vikram,South,Furniture,Chair,3.0,3500.0
+ORD066,2026-07-02,Ananya,East,Office,Notebook,10.0,-100.0
+ORD069,,Meera,East,Electronics,Keyboard,4.0,1200.0
+ORD070,,Ishita,West,Furniture,Chair,10.0,3500.0
+ORD071,,,South,Electronics,Mouse,10.0,500.0
+ORD073,,Ravi,North,Office,Pen,8.0,20.0
+ORD076,,Arjun,East,Office,Pen,4.0,20.0
+ORD078,,Vikram,East,Office,Pen,9.0,20.0
+ORD079,,Meera,West,Office,Pen,5.0,20.0
+ORD080,,Vikram,West,Electronics,Keyboard,5.0,1200.0
+ORD083,,Sneha,North,Electronics,Keyboard,1.0,1200.0
+ORD086,,Ravi,East,Electronics,Keyboard,6.0,1200.0
+ORD087,,Ravi,East,Electronics,Monitor,5.0,8000.0
+ORD089,,Vikram,South,Electronics,Keyboard,10.0,1200.0
+ORD090,,Ravi,West,Electronics,Monitor,7.0,8000.0
+ORD091,,Arjun,South,Electronics,Mouse,4.0,500.0
+ORD092,,Meera,South,Office,Pen,1.0,20.0
+ORD093,,Ananya,South,Furniture,Desk,6.0,6500.0
+ORD094,,Ananya,East,Office,Pen,4.0,20.0
+ORD096,,Vikram,South,Office,Desk Lamp,9.0,750.0
+ORD099,,Ishita,East,Office,Desk Lamp,7.0,750.0

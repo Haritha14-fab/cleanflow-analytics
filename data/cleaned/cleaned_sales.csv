@@ -1,0 +1,38 @@
+Order_ID,Order_Date,Customer,Region,Category,Product,Quantity,Unit_Price,Sales
+ORD001,2026-05-01,Aarav,East,Electronics,Mouse,2.0,500.0,1000.0
+ORD002,2026-06-01,Meera,West,Office,Notebook,5.0,50.0,250.0
+ORD003,2026-07-01,Ravi,East,Electronics,Keyboard,1.0,1200.0,1200.0
+ORD004,2026-08-01,Ananya,South,Office,Pen,10.0,20.0,200.0
+ORD005,2026-09-01,Kiran,North,Electronics,Monitor,1.0,8000.0,8000.0
+ORD006,2026-10-01,Meera,West,Office,Notebook,5.0,50.0,250.0
+ORD007,2026-11-01,Arjun,East,Electronics,Mouse,3.0,500.0,1500.0
+ORD013,2026-04-01,Kiran,West,Electronics,Keyboard,4.0,1200.0,4800.0
+ORD016,2026-06-03,Ishita,East,Office,Notebook,9.0,50.0,450.0
+ORD022,2026-10-03,Meera,South,Furniture,Desk,2.0,6500.0,13000.0
+ORD024,2026-09-01,Aarav,West,Office,Notebook,5.0,50.0,250.0
+ORD028,2026-10-03,Ananya,West,Electronics,Monitor,8.0,8000.0,64000.0
+ORD029,2026-04-02,Vikram,West,Furniture,Chair,6.0,3500.0,21000.0
+ORD033,2026-01-02,Vikram,North,Electronics,Monitor,10.0,8000.0,80000.0
+ORD035,2026-07-03,Diya,East,Electronics,Monitor,1.0,8000.0,8000.0
+ORD038,2026-12-03,Aarav,East,Office,Pen,9.0,20.0,180.0
+ORD046,2026-10-03,Ravi,West,Electronics,Mouse,8.0,1200.0,9600.0
+ORD047,2026-03-02,Vikram,South,Electronics,Monitor,4.0,8000.0,32000.0
+ORD048,2026-09-02,Sneha,North,Office,Notebook,8.0,50.0,400.0
+ORD050,2026-03-01,Ishita,West,Office,Desk Lamp,10.0,750.0,7500.0
+ORD052,2026-05-01,Arjun,East,Electronics,Keyboard,9.0,1200.0,10800.0
+ORD053,2026-05-02,Diya,West,Office,Notebook,9.0,50.0,450.0
+ORD060,2026-01-02,Meera,South,Furniture,Desk,9.0,6500.0,58500.0
+ORD067,2026-10-02,Aarav,East,Electronics,Mouse,10.0,500.0,5000.0
+ORD068,2026-06-03,Vikram,West,Furniture,Desk,1.0,6500.0,6500.0
+ORD072,2026-03-02,Ananya,North,Office,Desk Lamp,4.0,750.0,3000.0
+ORD074,2026-10-01,Aarav,South,Office,Desk Lamp,10.0,750.0,7500.0
+ORD075,2026-10-01,Vikram,West,Electronics,Keyboard,9.0,1200.0,10800.0
+ORD077,2026-06-02,Ravi,South,Office,Desk Lamp,9.0,750.0,6750.0
+ORD082,2026-06-03,Diya,North,Office,Pen,1.0,20.0,20.0
+ORD084,2026-12-02,Ravi,North,Electronics,Mouse,3.0,500.0,1500.0
+ORD085,2026-12-03,Sneha,East,Furniture,Desk,2.0,6500.0,13000.0
+ORD088,2026-06-01,Arjun,West,Office,Desk Lamp,4.0,750.0,3000.0
+ORD095,2026-12-02,Kiran,East,Furniture,Chair,5.0,3500.0,17500.0
+ORD097,2026-04-01,Meera,North,Office,Desk Lamp,3.0,750.0,2250.0
+ORD098,2026-05-01,Meera,South,Office,Pen,6.0,20.0,120.0
+ORD100,2026-02-02,Aarav,South,Office,Notebook,1.0,50.0,50.0
